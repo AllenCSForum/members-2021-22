@@ -27,4 +27,4 @@ On the way, you will use and learn:
 
 | Name   | Grade	  | Favorite Language	 |
 | ---    | ---     | ---                  |
-| Sahil S.  | Senior    | Python    |
+| Boden C.  | Junior    | Swift |
