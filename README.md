@@ -27,4 +27,4 @@ On the way, you will use and learn:
 
 | Name   | Grade	  | Favorite Language	 |
 | ---    | ---     | ---                  |
-| Vivek M.  | Junior  | | Python  |
+| Vivek M.  | Junior  | Python  |
