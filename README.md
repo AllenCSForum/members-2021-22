@@ -25,5 +25,6 @@ On the way, you will use and learn:
   - Tables
 - **Contributing to Open Source**
 
-| Name   | Grade	  | Favorite Language	 |
-| ---    | ---     | ---                  |
+| Name     | Grade     | Favorite Language |
+|----------|-----------|-------------------|
+| Faraz P. | Sophomore | Python            |
