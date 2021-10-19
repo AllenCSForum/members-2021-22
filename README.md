@@ -26,4 +26,4 @@ On the way, you will use and learn:
 - **Contributing to Open Source**
 
 | Name   | Grade	  | Favorite Language	 |
-| ---    | ---     | ---                  |
+| Daniel S. | Senior  | Swift |
