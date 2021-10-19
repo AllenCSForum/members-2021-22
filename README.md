@@ -25,5 +25,6 @@ On the way, you will use and learn:
   - Tables
 - **Contributing to Open Source**
 
-| Name   | Grade	  | Favorite Language	 |
-| Daniel S. | Senior  | Swift |
+| Name   | Grade	  | Favorite Language  	 |
+| - | - | - |
+| Daniel S. | Senior    | Swift |
