@@ -8,7 +8,7 @@ Formatting must be followed correctly!
 *use proper case and add your last initial with a period at the end*
 2. Grade: "Freshman", "Sophomore", "Junior", "Senior"
 *use proper case here as well!*
-3. Favorite Language: "~~Assembly~~", "Java", "Python", "Go", "Swift", "C++", etc.
+3. Favorite Language: "~~Assembly~~", "Java", "Python", "Go", "Swift", "C++", "Rendor(Totally not made by me XD)", etc.
 *use proper case and put **one** valid programming language!*
 
 Comments may be made on pull requests if changes are necessary before the commits are merged.
