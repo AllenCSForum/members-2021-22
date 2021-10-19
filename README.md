@@ -27,3 +27,4 @@ On the way, you will use and learn:
 
 | Name   | Grade	  | Favorite Language	 |
 | ---    | ---     | ---                  |
+| Neeraj G.   | Junior  | C#  |
