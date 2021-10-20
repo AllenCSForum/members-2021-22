@@ -28,3 +28,4 @@ On the way, you will use and learn:
 | Name   | Grade	  | Favorite Language	 |
 | ---    | ---     | ---                  |
 | Akshat S. | Senior  | Go  |
+| Sahil S.  | Senior    | Python    |
