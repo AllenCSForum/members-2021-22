@@ -27,6 +27,8 @@ On the way, you will use and learn:
 
 | Name   | Grade	  | Favorite Language	 |
 | ---    | ---     | ---                  |
+
+| Neeraj G.   | Junior  | C#  |
 | Faraz P. | Sophomore | Python            |
 | Warith R. | Sophomore | Java  |
 | Vivek M.  | Junior  | Python  |
