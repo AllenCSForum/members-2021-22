@@ -28,3 +28,6 @@ On the way, you will use and learn:
 | Name   | Grade	  | Favorite Language	 |
 | ---    | ---     | ---                  |
 | Vivek M.  | Junior  | Python  |
+| Boden C.  | Junior    | Swift |
+| Akshat S. | Senior  | Go  |
+| Sahil S.  | Senior    | Python    |
