@@ -25,11 +25,11 @@ On the way, you will use and learn:
   - Tables
 - **Contributing to Open Source**
 
-| Name   | Grade	  | Favorite Language	 |
-| ---    | ---     | ---                  |
-
+| Name   | Grade	  | Favorite Language |
+| ---    | ---     | ---  |
+| Mehak J.  | Sophmore  | Swift |
 | Neeraj G.   | Junior  | C#  |
-| Faraz P. | Sophomore | Python            |
+| Faraz P. | Sophomore | Python |
 | Warith R. | Sophomore | Java  |
 | Vivek M.  | Junior  | Python  |
 | Boden C.  | Junior    | Swift |
