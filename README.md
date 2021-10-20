@@ -27,6 +27,7 @@ On the way, you will use and learn:
 
 | Name   | Grade	  | Favorite Language |
 | ---    | ---     | ---  |
+| Jeremie H. | Senior | Swift |
 | Mehak J.  | Sophmore  | Swift |
 | Neeraj G.   | Junior  | C#  |
 | Faraz P. | Sophomore | Python |
