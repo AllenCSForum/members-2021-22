@@ -25,8 +25,9 @@ On the way, you will use and learn:
   - Tables
 - **Contributing to Open Source**
 
-| Name   | Grade	  | Favorite Language |
+| Name   | Grade  | Favorite Language |
 | ---    | ---     | ---  |
+| Mahid S.    | Freshman     | C++  |
 | Andrew B. | Freshman | Java  |
 | Matthew C.  | Junior  | JavaScript  |
 | Jeremie H. | Senior | Swift |
