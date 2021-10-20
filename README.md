@@ -28,3 +28,7 @@ On the way, you will use and learn:
 | Name   | Grade	  | Favorite Language	 |
 | ---    | ---     | ---                  |
 | Warith R. | Sophomore | Java  |
+| Vivek M.  | Junior  | Python  |
+| Boden C.  | Junior    | Swift |
+| Akshat S. | Senior  | Go  |
+| Sahil S.  | Senior    | Python    |
