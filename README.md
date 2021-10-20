@@ -27,6 +27,7 @@ On the way, you will use and learn:
 
 | Name   | Grade  | Favorite Language |
 | ---    | ---     | ---  |
+| Reese H.| Senior | Assembly |
 | Dhakshin P.   | Junior    | Python    |
 | Aidan K.  | Senior  | Swift  |
 | Mahid S.    | Freshman     | C++  |
