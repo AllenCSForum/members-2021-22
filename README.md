@@ -27,6 +27,7 @@ On the way, you will use and learn:
 
 | Name   | Grade  | Favorite Language |
 | ---    | ---     | ---  |
+| Aidan K.  | Senior  | Swift  |
 | Mahid S.    | Freshman     | C++  |
 | Andrew B. | Freshman | Java  |
 | Matthew C.  | Junior  | JavaScript  |
