@@ -25,6 +25,17 @@ On the way, you will use and learn:
   - Tables
 - **Contributing to Open Source**
 
-| Name   | Grade	  | Favorite Language	 |
-| ---    | ---     | ---                  |
-| Mahid S.    | Freshman     | C++                  |
+| Name   | Grade  | Favorite Language |
+| ---    | ---     | ---  |
+| Mahid S.    | Freshman     | C++  |
+| Andrew B. | Freshman | Java  |
+| Matthew C.  | Junior  | JavaScript  |
+| Jeremie H. | Senior | Swift |
+| Mehak J.  | Sophmore  | Swift |
+| Neeraj G.   | Junior  | C#  |
+| Faraz P. | Sophomore | Python |
+| Warith R. | Sophomore | Java  |
+| Vivek M.  | Junior  | Python  |
+| Boden C.  | Junior    | Swift |
+| Akshat S. | Senior  | Go  |
+| Sahil S.  | Senior    | Python    |
