@@ -42,3 +42,4 @@ On the way, you will use and learn:
 | Boden C.  | Junior    | Swift |
 | Akshat S. | Senior  | Go  |
 | Sahil S.  | Senior    | Python    |
+| Daniel S. | Senior    | Swift |
