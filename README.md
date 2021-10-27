@@ -31,7 +31,7 @@ On the way, you will use and learn:
 | Dhakshin P.   | Junior    | Python    |
 | Aidan K.  | Senior  | Swift  |
 | Mahid S.    | Freshman     | C++  |
-| Andrew B. | Freshman | Java  |
+| Andrew B. | Sophomore | Java  |
 | Matthew C.  | Junior  | JavaScript  |
 | Jeremie H. | Senior | Swift |
 | Mehak J.  | Sophmore  | Swift |
