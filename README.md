@@ -43,3 +43,4 @@ On the way, you will use and learn:
 | Akshat S. | Senior  | Go  |
 | Sahil S.  | Senior    | Python    |
 | Daniel S. | Senior    | Swift |
+| Mukul Agarwal | Junior | Rust |
